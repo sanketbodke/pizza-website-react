@@ -32,12 +32,13 @@
     margin: 20px;
 }
 
-.navbar .rightSide button {
+
+/* .navbar .rightSide button {
     background-color: transparent;
     border: none;
     color: white;
     cursor: pointer;
-}
+} */
 
 .navbar .rightSide svg {
     font-size: 40px;
